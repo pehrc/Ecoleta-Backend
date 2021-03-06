@@ -135,11 +135,8 @@ Ferramentas utilizadas para construção do sistema.
 
 ## Autores
 
-- **Mikael Messias** - _Desenvolvedor frontend_ - [Github](https://github.com/mikaelmessias)
+- **Pedro Correia** - _Desenvolvedor frontend_ - [Github](https://github.com/pehrc)
 
-## Licença
-
-Esse projeto está licenciado sob a licença **GNU v3.0** - veja o arquivo LICENSE.md para mais detalhes.
 
 ## Agradecimentos
 
